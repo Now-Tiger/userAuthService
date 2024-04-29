@@ -1,5 +1,7 @@
 # dependencies
 node_modules/
 
-# readme pdf file
-Readme.pdf
+# env file
+.env 
+
+.DS_Store
