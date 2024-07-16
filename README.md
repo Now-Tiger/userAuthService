@@ -9,7 +9,7 @@
 
 ### Detailed article of this project.
 
-💡[click here](https://tiger-up.notion.site/User-authentication-using-cookies-and-JWT-d2dd31d340ed43f7ab79d9253a71c60f)
+💡[click here](https://tigerhere.notion.site/User-authentication-using-cookies-and-JWT-d2dd31d340ed43f7ab79d9253a71c60f)
 
 ---
 
